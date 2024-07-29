@@ -1,0 +1,7 @@
+{
+  "name": "com.okamihoro.dadforunity",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "displayName": "DragAndDropForUnity",
+  "description": "从资源管理器拖拽文件到unity中."
+}
